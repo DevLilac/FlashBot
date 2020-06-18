@@ -1,6 +1,8 @@
 # FlashBot
 FlashBot is a french Modération, Modern, Fast and Fun Bot with quick commands but very helpful.
 
+https://discord.com/oauth2/authorize?client_id=702121246107762688&scope=bot&permissions=2147483647
+
 Admin Commands:
 
 Boost - You send a message for the boosters: ++boostmessage
